@@ -1,1 +1,2 @@
 # AulaChata
+git clone
